@@ -1,0 +1,53 @@
+
+body {margin: 0;;font-family: Century Gothic}
+
+header nav { position: fixed; background: #FFF; width: 100%}
+header nav ul {list-style-type: none; padding: 0; margin: 0;}
+header nav ul li {float: left;}
+header nav ul li a {text-decoration: none; display: inline-block; font-size: 20px; margin-left: 20px; padding: 20px; color: #000;margin-top: 0 auto}
+header nav ul li a:hover {background: #FFC153 ; color: #FFF}
+
+.right {float: right;}
+
+.header {background-image:url(neko.png);background-position:center;background-repeat:no-repeat ; background-size:cover; padding: 100px; height: 457px }
+.header img {float: right;}
+.header .text {padding: 120px ; color: #FFF ; text-align: center;}
+.header .text h2 a {color: #FFF; text-decoration: none; border: solid 2px; padding: 10px }
+.header .text h2 a:hover {background: #FFC153}
+
+h2 {text-align: center;}
+hr {width: 20%}
+
+.content {margin: 0 auto; margin-left: 100px; margin-top: 50px ; }
+.content .banner {float: left; width: 15% ; margin-left: 30px ; margin-bottom: 30px; text-align: center; }
+.content .banner img {width: 70%;}
+
+.download {background:#F2F0F0; width: 100%; padding-bottom: 120px; padding-top: 120px; text-align: center;}
+.download h3 a {color : #000 ; text-decoration: none; border: solid 2px; padding: 10px }
+
+.footer {background-image:url(map.png);background-position:center; background-repeat:no-repeat ; background-size:cover;height: 400px; padding: 100px; }
+.footer .text {text-align: center; color: #FFF; padding: 120px}
+.footer h2 a {border: solid 2px; text-decoration: none; color: #FFF ; padding: 10px}
+.footer h2 a:hover {background: #FFC153}
+
+footer {padding: 20px}
+footer p {color: #909090; text-align: center;}
+footer p a {color: #000;text-decoration: none; }
+footer p a:hover {color:#FFC153 }
+
+.list {background: #DAD5D5 ; padding: 50px}
+.list h1 {text-align: center; padding-top: 80px; padding-bottom: 40px ; font-size: 28px ; margin: 0px}
+
+.staff {text-align: center;}
+.staff a {text-decoration: none; color: #000}
+.staff a:hover {color:#FFC153}
+.staff hr {width: 12%}
+
+.container {margin: 0 auto; width: 1250px ; }
+
+
+.konten h1 {padding-top: 100px;font-size: 28px ; margin: 0px}
+.konten p {padding-left: 200px}
+.konten h3 {float: left; margin: 0 ;}
+.konten ol {padding-left: 220px}
+
